@@ -15,9 +15,9 @@
 ## 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ameliasg&layout=compact&theme=dark" width="400" height="200" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ameliasg&layout=compact&theme=dark" width="48%" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ameliasg&show_icons=true&theme=dark" width="500" height="190" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ameliasg&show_icons=true&theme=dark" width="48%" />
 </p>
 
 <!--
